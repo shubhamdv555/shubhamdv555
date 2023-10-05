@@ -16,7 +16,7 @@ I'm a dedicated data engineer with a passion for turning data into valuable insi
 ## Skills
 
 - **Data Engineering**: ETL processes, data pipeline design, data transformation.
-- **Big Data**: Apache Spark, Hadoop, Hive, Pig.
+- **Big Data**: Apache Spark, Hadoop, Hive.
 - **Databases**: SQL, NoSQL, data warehousing.
 - **Programming**: Python.
 - **Cloud Platforms**: Azure, Google Cloud Platform.
