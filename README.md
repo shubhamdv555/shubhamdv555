@@ -20,6 +20,7 @@ I'm a dedicated data engineer with a passion for turning data into valuable insi
 - **Databases**: SQL, NoSQL, data warehousing.
 - **Programming**: Python.
 - **Cloud Platforms**: Azure, Google Cloud Platform.
+- **Microsoft Azure**: Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks.
 - **Version Control**: Git.
 
 
