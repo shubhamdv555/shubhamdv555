@@ -23,6 +23,10 @@ I'm a dedicated data engineer with a passion for turning data into valuable insi
 - **Microsoft Azure**: Azure Data Factory, Azure Data Lake Storage Gen2, Azure Databricks.
 - **Version Control**: Git.
 
+## Certifications
+- **DP-900 Azure Data Fundamentals.**
+- **Hadoop Fundamentals.**
+- **Distributed Processing with Pyspark.**
 
 ## Contact
 - Email: shubhamdv2424@gmail.com
