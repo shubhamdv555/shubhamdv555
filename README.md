@@ -1,16 +1,29 @@
 ### Hi there 👋
 
-<!--
-**shubhamdv555/shubhamdv555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shubham V. - Data Engineer
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a dedicated data engineer with a passion for turning data into valuable insights. Here's a glimpse of who I am and what I do.
+
+## About Me
+
+- 💼 Data Engineer.
+- 🚀 Strong background in designing and maintaining data pipelines.
+- 📊 Skilled in ETL processes, data modeling, and data warehousing.
+- 🌐 Proficient in cloud platforms (Azure, GCP) and big data technologies (Apache Spark, Hadoop).
+- 🔍 Detail-oriented with a focus on data quality and accuracy.
+
+## Skills
+
+- **Data Engineering**: ETL processes, data pipeline design, data transformation.
+- **Big Data**: Apache Spark, Hadoop, Hive, Pig.
+- **Databases**: SQL, NoSQL, data warehousing.
+- **Programming**: Python.
+- **Cloud Platforms**: Azure, Google Cloud Platform.
+- **Version Control**: Git.
+
+
+## Contact
+- Email: shubhamdv2424@gmail.com
+
+Let's chat about data engineering, technology, or any exciting projects you have in mind!
