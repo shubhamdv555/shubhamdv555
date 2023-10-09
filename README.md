@@ -24,9 +24,10 @@ I'm a dedicated data engineer with a passion for turning data into valuable insi
 - **Version Control**: Git.
 
 ## Certifications
-- **DP-900 Azure Data Fundamentals.**
-- **Hadoop Fundamentals.**
+- **DP-900 Microsoft Azure Data Fundamentals.**
+- **Distributed Storage and Processing Fundamentals**
 - **Distributed Processing with Pyspark.**
+- **Azure Cloud and Databricks Fundamentals.**
 
 ## Contact
 - Email: shubhamdv2424@gmail.com
